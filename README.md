@@ -1,7 +1,7 @@
 # PNC-Hotels
 Developed a complete Hotel Management Portal which can be used for user management, reservations and other related functions.
 PROCEDURE:
-1. Open home.php
+1. Open home.html
 2. Admin login : username - admin ; password - admin
 
 ABOUT :
